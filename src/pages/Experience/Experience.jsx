@@ -81,7 +81,7 @@ const ExperienceSection = () => {
       icon: Code2,
       title: "Freelancer Frontend Developer",
       company: "Freelancer",
-      period: "Feb 2024 – April 2025",
+      period: "Feb 2024 – May 2025",
       description:
         "Worked as a freelance developer on ERP systems, building and optimizing modules for  customer management with a focus on scalability and efficiency.",
     },
