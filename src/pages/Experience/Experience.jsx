@@ -56,14 +56,6 @@ const ExperienceSection = () => {
     {
       icon: Code2,
       title: "Frontend Developer",
-      company: "HYBRID UTOPIA",
-      period: "Feb 2022 – July 2022",
-      description:
-        "Improved UX by optimizing pages and enhancing React.js code; converted designs into responsive interfaces using JavaScript.",
-    },
-    {
-      icon: Code2,
-      title: "Frontend Developer",
       company: "SuperMinds IT",
       period: "Aug 2022 – May 2023",
       description:
@@ -76,15 +68,7 @@ const ExperienceSection = () => {
       period: "June 2024 – Jan 2025",
       description:
         "Contributed to building responsive, interactive UIs with performance-focused optimizations.",
-    },
-     {
-      icon: Code2,
-      title: "Freelancer Frontend Developer",
-      company: "Freelancer",
-      period: "Feb 2025 – May 2025",
-      description:
-        "Worked as a freelance developer on ERP systems, building and optimizing modules for  customer management with a focus on scalability and efficiency.",
-    },
+    }
   ];
 
   return (
