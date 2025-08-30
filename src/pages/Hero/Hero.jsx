@@ -51,19 +51,19 @@ const profile = {
     name: 'Kailash Tanwar',
     title: 'Frontend Developer',
     skills: [
-        'React','NextJS','Redux','JavaScript',
-         'MongoDB', 'TypeScript','Git'
+        'React','JavaScript',
+         'GSAP', 'Tailwind Css' ,'Git'
     ],
     hardWorker: true,
     quickLearner: true,
     problemSolver: true,
-    yearsOfExperience: 2+, 
+    yearsOfExperience: 1.5, 
     hireable: function() {
         return (
             this.hardWorker &&
             this.problemSolver &&
             this.skills.length >= 5 &&
-            this.yearsOfExperience >= 2+
+            this.yearsOfExperience >= 1.5
         );
     }
 };
