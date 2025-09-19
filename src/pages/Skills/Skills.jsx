@@ -107,10 +107,6 @@ const SkillsSection = () => {
           name: "REST APIs",
           icon: <BsGrid1X2 className="w-4 h-4 text-[#FF6C37]" />,
         },
-        {
-          name: "GraphQL",
-          icon: <SiGraphql className="w-4 h-4 text-[#E10098]" />,
-        },
       ],
     },
   ];
